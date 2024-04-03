@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cocktails</title>
+</head>
+<body>
+    <h1>Recettes de cocktails</h1>
+    <p>Le Moscow mule est un cocktail à base de vodka, de bière de gingembre épicée et de jus de citron vert, accompagné d'une rondelle de citron. <a href="lien_vers_recette_moscow_mule">Recette Moscow Mule</a></p>
+    <p>Le Long Island Iced Tea est un cocktail à base de tequila, de gin, de vodka, de rhum et de liqueur d'oranges. <a href="lien_vers_recette_long_island_iced_tea">Recette Long Island Iced Tea</a></p>
+</body>
+</html>
