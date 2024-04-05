@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titres de différents niveaux</title>
+    <style>
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        h2 {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        h3 {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Titre de niveau 1</h1>
+    <h2>Titre de niveau 2</h2>
+    <h3>Titre de niveau 3</h3>
+    <h3>Titre de niveau 3</h3>
+    <h2>Titre de niveau 2</h2>
+    <h1>Titre de niveau 1</h1>
+    
+    </p>
+    <p>
+        <p> texte en <b>gras</b>, texte en <i>italique</i>, texte <u>souligné</u>
+    </p>
+    <p>
+    <p>Consultez l'actualité sur <a href="https://www.lemonde.fr/">Le Monde</a>.</p>
+    
+    <p>Ecrivez-moi à <a href="mailto:spastore2@free.fr">spastore2@free.fr</a></p>
+    
+    <h1>Liste d'items et d'éléments</h1>
+    <ul>
+        <li><b>Item 1</b></li>
+        <li>Item 2
+            <ul>
+                <li><i>Element 1</i></li>
+                <li><u>Element 2</u></li>
+            </ul>
+        </li>
+        <li><b>Item 3</b></li>
+    </ul>
+</body>
+</html>
