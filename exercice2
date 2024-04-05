@@ -3,20 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tableau à 6 cases</title>
+    <title>Tableau de 6 cases</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td, th {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
-    <table>
-        <tr>
-            <td>Case 1</td>
-            <td>Case 2</td>
-            <td>Case 3</td>
-        </tr>
-        <tr>
-            <td>Case 4</td>
-            <td>Case 5</td>
-            <td>Case 6</td>
-        </tr>
+
+<h2>Tableau de 6 cases</h2>
+
+<table>
+    <tr>
+        <td>Case 1</td>
+        <td>Case 2</td>
+        <td>Case 3</td>
+        <td>Case 4</td>
+        <td>Case 5</td>
+        <td>Case 6</td>
+    </tr>
+</table>
+
+</body>
+</html>
     </table>
     <h1>Liste d'items et d'éléments</h1>
     <ul>
