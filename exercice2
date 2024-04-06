@@ -36,17 +36,17 @@
 
     <li><b>1. Premier point </b></li>
         
-            <ul>
-                <li>Rubrique 1</i></li>
-                <li>Rubrique 2</i></li>
-
+    <ul>
+        <li>Rubrique 1</i></li>
+        <li>Rubrique 2</i></li>
+    <ul>
     <li><b>2. Deuxieme Point </b></li>
 
     <li><b>3. Troisieme point </b></li>
-            <ul>
-                <li>Rubrique 1</i></li>
-                <li>Rubrique 2</i></li>
-            <ul>
+        <ul>
+            <li>Rubrique 1</i></li>
+            <li>Rubrique 2</i></li>
+    <ul>
 
     
 </body>
