@@ -36,7 +36,7 @@
 
     <li><b>1. Premier point </b></li>
         
-    <ul>
+
         <li>Rubrique 1</i></li>
         <li>Rubrique 2</i></li>
 
@@ -46,7 +46,7 @@
         <ul>
             <li>Rubrique 1</i></li>
             <li>Rubrique 2</i></li>
-    <ul>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
