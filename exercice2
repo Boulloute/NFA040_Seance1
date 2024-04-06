@@ -33,16 +33,16 @@
 </html>
     </table>
     <h1>Liste d'items et d'éléments</h1>
-    <ul>
-        <li><b>1. Premier point </b></li>
+
+    <li><b>1. Premier point </b></li>
         
             <ul>
                 <li>Rubrique 1</i></li>
                 <li>Rubrique 2</i></li>
-    <ul>
-        <li><b>2. Deuxieme Point </b></li>
-    <ul>
-        <li><b>3. Troisieme point </b></li>
+            <ul>
+    <li><b>2. Deuxieme Point </b></li>
+
+    <li><b>3. Troisieme point </b></li>
             <ul>
                 <li>Rubrique 1</i></li>
                 <li>Rubrique 2</i></li>
