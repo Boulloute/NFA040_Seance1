@@ -5,32 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tableau de 6 cases</title>
     <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        td, th {
+ table, th, td {
             border: 1px solid black;
-            padding: 8px;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+        th {
             text-align: center;
         }
     </style>
 </head>
 <body>
-
-<h2>Tableau de 6 cases</h2>
-
-<table>
-    <tr>
-        <td>Case 1</td>
-        <td>Case 2</td>
-        <td>Case 3</td>
-<ul>
-        <td>Case 4</td>
-        <td>Case 5</td>
-        <td>Case 6</td>
-    </tr>
-</table>
+    <table>
+        <tr>
+            <th>Case 1</th>
+            <th>Case 2</th>
+            <th>Case 3</th>
+        </tr>
+        <tr>
+            <td>Case 4</td>
+            <td>Case 5</td>
+            <td>Case 6</td>
+        </tr>
+    </table>
 
 </body>
 </html>
@@ -48,6 +45,7 @@
         <li><b>3. Troisieme point </b></li>
                 <li>Rubrique 1</i></li>
                 <li>Rubrique 2</i></li>
+
 
     
 </body>
