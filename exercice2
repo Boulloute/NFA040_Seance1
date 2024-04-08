@@ -78,8 +78,8 @@
         <tr>
             <td></td>
             <td></td>
-            <td rowspan="2">Case 5</td>
-            <td>Case 6</td>
+            <td>Case 5</td>
+            <td colspan="2">Case 6</td>
             <td>Case 7</td>
         </tr>
     </table>
