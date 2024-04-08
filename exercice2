@@ -80,11 +80,7 @@
             <td></td>
             <td rowspan="2">Case 5</td>
             <td>Case 6</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td rowspan="2">Case 7</td>
+            <td>Case 7</td>
         </tr>
     </table>
     
